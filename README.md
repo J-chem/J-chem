@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @J-chem
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java, Spring Fundamentals, Thymeleaf
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
